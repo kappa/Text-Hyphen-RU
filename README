@@ -1,19 +1,7 @@
-Text-Hyphen
+Text-Hyphen-RU
 
-Text::Hyphen module is the implementation of the famous Knuth-Liang
-algorithm to hyphenate words in text. That means using this module you
-can determine positions inside words where it is possible to insert
-a hyphen to break a line of text.
-
-The algorithm is thoroughly documented in Franklin Mark Liang's Ph.D. thesis
-available on CTAN (e.g. http://www.tug.org/docs/liang/liang-thesis.pdf) and is used
-in TeX. The interesting property of this algorithm is that it isn't
-based on a set of rules but instead uses a sophisticatedly compressed dictionary of patterns.
-The original Knuth patterns for English are in public domain and
-included with this implementation.
-
-The Text::Hyphen distribution does not have any dependencies and will
-probably work on old perls. (XXX rephrase after cpantesters reports)
+Text::Hyphen::RU module is a Knuth-Liang hyphenator for Russian. See
+Text::Hyphen for more information.
 
 This is 0.1 version.
 
@@ -31,21 +19,22 @@ SUPPORT AND DOCUMENTATION
 After installing, you can find documentation for this module with the
 perldoc command.
 
+    perldoc Text::Hyphen::RU
     perldoc Text::Hyphen
 
 You can also look for information at:
 
     RT, CPAN's request tracker
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Text-Hyphen
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Text-Hyphen-RU
 
     AnnoCPAN, Annotated CPAN documentation
-        http://annocpan.org/dist/Text-Hyphen
+        http://annocpan.org/dist/Text-Hyphen-RU
 
     CPAN Ratings
-        http://cpanratings.perl.org/d/Text-Hyphen
+        http://cpanratings.perl.org/d/Text-Hyphen-RU
 
     Search CPAN
-        http://search.cpan.org/dist/Text-Hyphen
+        http://search.cpan.org/dist/Text-Hyphen-RU
 
 
 COPYRIGHT AND LICENCE
