@@ -3,8 +3,6 @@ Text-Hyphen-RU
 Text::Hyphen::RU module is a Knuth-Liang hyphenator for Russian. See
 Text::Hyphen for more information.
 
-This is 0.1 version.
-
 INSTALLATION
 
 To install this module, run the following commands:

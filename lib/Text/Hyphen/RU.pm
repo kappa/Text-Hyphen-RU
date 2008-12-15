@@ -5,7 +5,7 @@ use strict;
 
 use utf8;   # source contains russian letters
 
-use 5.006;
+use 5.008;
 
 =head1 NAME
 
@@ -13,13 +13,13 @@ Text::Hyphen::RU - determine positions for hyphens inside russian words
 
 =head1 VERSION
 
-Version 0.1
+Version 0.11
 
 =cut
 
 use base 'Text::Hyphen';
 
-our $VERSION = '0.1';
+our $VERSION = '0.11';
 
 =head1 SYNOPSIS
 

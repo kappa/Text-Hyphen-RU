@@ -17,5 +17,5 @@ no_index:
     - t
 requires:
   Text::Hyphen: 0
-  perl: 5.6.0
-version: 0.1
+  perl: 5.8.0
+version: 0.11
