@@ -508,7 +508,11 @@ Donald Knuth and Frank Liang for the algorithm.
 
 Alexander Lebedev for all his valuable work on russian ispell
 dictionaries and russian hyphenation patterns. See his archive
-at L<ftp://scon155.phys.msu.ru/pub/russian/>.
+at L<ftp://scon155.phys.msu.ru/pub/russian/> or his hyphenation page
+at L<http://scon155.phys.msu.su/~swan/hyphenation.html>.
+
+These patterns are also a part of ruhyphen CTAN package which
+is available at L<https://www.ctan.org/tex-archive/language/hyphenation/ruhyphen>.
 
 =head1 COPYRIGHT & LICENSE
 
