@@ -60,7 +60,11 @@ Donald Knuth and Frank Liang for the algorithm.
 
 Alexander Lebedev for all his valuable work on russian ispell
 dictionaries and russian hyphenation patterns. See his archive
-at [ftp://scon155.phys.msu.ru/pub/russian/](ftp://scon155.phys.msu.ru/pub/russian/).
+at [ftp://scon155.phys.msu.ru/pub/russian/](ftp://scon155.phys.msu.ru/pub/russian/) or his hyphenation page
+at [http://scon155.phys.msu.su/~swan/hyphenation.html](http://scon155.phys.msu.su/~swan/hyphenation.html).
+
+These patterns are also a part of ruhyphen CTAN package which
+is available at [https://www.ctan.org/tex-archive/language/hyphenation/ruhyphen](https://www.ctan.org/tex-archive/language/hyphenation/ruhyphen).
 
 # COPYRIGHT & LICENSE
 
