@@ -11,15 +11,11 @@ use 5.008;
 
 Text::Hyphen::RU - determine positions for hyphens inside russian words
 
-=head1 VERSION
-
-Version 0.11
-
 =cut
 
 use base 'Text::Hyphen';
 
-our $VERSION = '0.11';
+our $VERSION = '0.12';
 
 =head1 SYNOPSIS
 
@@ -516,9 +512,10 @@ at L<ftp://scon155.phys.msu.ru/pub/russian/>.
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2008 Alex Kapranoff.
+Copyright 2008-2015 Alex Kapranoff.
 
-This program is released under the following license: BSD.
+This is free software; you can redistribute it and/or modify it under
+the terms GNU General Public License version 3.
 
 =cut
 
